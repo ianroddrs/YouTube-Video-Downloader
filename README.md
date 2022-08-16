@@ -11,3 +11,10 @@ It's a simple python project using the Pytube library to download videos from Yo
 * 2 - Paste in the app
 * 3 - Click on the bottom 
 * 4 - The video is successfully downloaded
+
+<hr>
+
+# Download link
+<p>
+  Click <a href="https://github.com/ianroddrs/YouTube-Video-Downloader/raw/main/dist/YouTube%20Downloader.exe" target="_blank">here</a> to download the app.
+</p>
